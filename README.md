@@ -15,7 +15,7 @@
   <a href="https://scholar.google.com/citations?user=esAVkskAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0004-6507-0496"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://www.kaggle.com/yuanchunhong"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:PickleHeadxza@priest.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:Y2399549081@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=coralr-1&label=Profile%20views&color=2563EB&style=flat-square" alt="views"/>
 </p>
 
