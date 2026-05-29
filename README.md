@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://coralr-1.github.io"><img src="https://img.shields.io/badge/Homepage-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"/></a>
   <a href="https://github.com/We-Young-Open-Lab"><img src="https://img.shields.io/badge/Org-We%20Young%20Open%20Lab-181717?style=flat-square&logo=github&logoColor=white" alt="Organization"/></a>
+  <a href="https://scholar.google.com/citations?user=esAVkskAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0004-6507-0496"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://www.kaggle.com/yuanchunhong"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:PickleHeadxza@priest.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
