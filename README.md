@@ -1,115 +1,153 @@
-<!--
-  GitHub Profile README for @coralr-1
-  How to publish:
-  1. Create a new PUBLIC repository named exactly "coralr-1" (same as your username).
-  2. Add this README.md to its root.
-  3. Commit & push — GitHub renders it on your profile automatically.
--->
-
-<h1 align="center">Hi, I'm Chunhong Yuan 👋</h1>
-<h3 align="center">AI / ML Researcher · Robotics & Graph Learning · Founder @ We Young Open Lab</h3>
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:06b6d4&height=220&section=header&text=Chunhong%20Yuan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI4S%20%C2%B7%20VLA%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=58&animation=fadeIn" alt="Chunhong Yuan"/>
+</p>
 
 <p align="center">
-  <a href="https://coralr-1.github.io"><img src="https://img.shields.io/badge/Homepage-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"/></a>
-  <a href="https://github.com/We-Young-Open-Lab"><img src="https://img.shields.io/badge/Org-We%20Young%20Open%20Lab-181717?style=flat-square&logo=github&logoColor=white" alt="Organization"/></a>
-  <a href="https://scholar.google.com/citations?user=esAVkskAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://orcid.org/0009-0004-6507-0496"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://www.kaggle.com/yuanchunhong"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:Y2399549081@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=coralr-1&label=Profile%20views&color=2563EB&style=flat-square" alt="views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Chunhong+Yuan+%F0%9F%91%8B;M.S.+Student+%40+ITMO+University+%C2%B7+Founder+%40+We+Young+Open+Lab;AI4S+%C2%B7+VLA+%C2%B7+Machine+Learning;Robot+Path+Planning+%C2%B7+LLM+Agents+%C2%B7+Visual+Tracking;From+experiments+to+manuscripts%2C+one+commit+at+a+time." alt="typing intro"/>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=vSJlRpYAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0009-0004-6507-0496"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.kaggle.com/yuanchunhong"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://github.com/weyoung-open-lab"><img src="https://img.shields.io/badge/We%20Young%20Open%20Lab-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="We Young Open Lab"/></a>
+  <img src="https://komarev.com/ghpvc/?username=coralr-1&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-### 🔬 About Me
+### 🧑‍🔬 About Me
 
-- 🎓 Student researcher focused on **machine learning, deep learning & reinforcement learning**.
-- 🚀 Founder of **[We Young Open Lab](https://github.com/We-Young-Open-Lab)** — *Hangzhou Wei-Yang Era Technology Co., Ltd.*, an AI R&D studio.
-- 🤖 I work across **visual tracking, robotic manipulation & path planning, graph neural networks**, and **time-series forecasting**.
-- 📄 First-author work on structure-preserving spectral GNNs (*DuoKinaseNet*, npj Digital Medicine 2025).
-- 🌱 Currently going deeper into **VLA models, edge-efficient perception, and agentic research tooling**.
-- 💬 Happy to collaborate on ML research, robotics simulation, or open datasets.
+```python
+class ChunhongYuan(Researcher):
+    role      = "M.S. Student @ ITMO University  ·  Founder @ We Young Open Lab"
+    interests = ["AI4S", "VLA", "Machine Learning"]
+    focus     = ["Robot Path & Motion Planning", "LLM Multi-Agent Systems",
+                 "Visual Tracking", "Robotic Manipulation"]
+    exploring = ["VLA Models", "Edge-Efficient Perception", "Agentic Research Tooling"]
+    open_to   = "Collaborations on ML research, robotics simulation & open datasets"
+
+    def motto(self):
+        return "Building intelligent systems, one commit at a time. 🚀"
+```
+
+### 📄 Publications
+
+<a href="https://scholar.google.com/citations?hl=en&user=vSJlRpYAAAAJ"><img src="https://img.shields.io/badge/Full%20list-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+
+- **PaperOrchestrator: An LLM-orchestrated multi-agent pipeline for automated end-to-end scientific paper writing**<br/>
+  **C. Yuan**, T. Wei, C. Li, X. Yi, S. Liu, Z. Zhang, Y. Cai, X. Du<br/>
+  *Journal of King Saud University – Computer and Information Sciences*, 2026
+- **KA-IHO: A kinematic-aware improved hippo optimization algorithm for collision-free mobile robot path planning in complex grid environments**<br/>
+  **C. Yuan**, Y. Cai, H. Que, Y. Pei, X. Zhang, J. Xie, Q. Zhang, L. Mu, F. Qiao<br/>
+  *Sensors* 26(8), 2416, 2026 · [`Code`](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)
+- **EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization in robot path planning**<br/>
+  **C. Yuan**, J. Zeng, H. Que, Q. Liu, J. Xiao, R. Wang, C. Jin, H. Chen, X. Du, et al.<br/>
+  *Journal of King Saud University – Computer and Information Sciences*, 2026
+- **Consumer-electronics-oriented safe interaction-aware motion planning for ramp driving with perception uncertainty quantification**<br/>
+  Z. Tian, Z. Lin, **C. Yuan**, S. Prajapat, J. Yang, L. Yee<br/>
+  *IEEE Transactions on Consumer Electronics*, 2026
+- **FLAME-C: Multi-dimensional dialogue response evaluation via swappable readout heads**<br/>
+  S. Liu, **C. Yuan**, L. Ren, S. Dhahbi, A. Dhahbi, J. Yang, L. Yee<br/>
+  *IEEE Transactions on Consumer Electronics*, 2026
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,cpp,js,html,css&perline=10" alt="languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,latex,vscode&perline=10" alt="tools"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**ML / DL / RL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Robotics & Tools**
-
-![PyBullet](https://img.shields.io/badge/PyBullet-22A699?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PyBullet-22A699?style=flat-square&logo=python&logoColor=white" alt="PyBullet"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/LM%20Studio-7C3AED?style=flat-square&logo=probot&logoColor=white" alt="LM Studio"/>
+</p>
 
 ---
 
-### 📌 Featured Work
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧬 <a href="https://github.com/coralr-1/DuoKinaseNet">DuoKinaseNet</a></h4>
-      <p>Structure-preserving spectral Graph Neural Network for dual kinase inhibitors. <em>Published in npj Digital Medicine, 2025.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/coralr-1/SpectrumAdaptiveKAN">SpectrumAdaptiveKAN</a></h4>
-      <p>Adaptive Kernel Attention Network (KAN) for time-series forecasting with spectrum decomposition.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🎯 <a href="https://github.com/coralr-1/hypertrack">HyperTrack</a></h4>
-      <p>Heterogeneous priority-scheduled multimodal fusion visual tracking — runs GPU-free on consumer edge devices.</p>
+      <p>Heterogeneous, priority-scheduled multimodal fusion visual tracking that runs <b>GPU-free</b> on consumer edge robots.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/hypertrack?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Python</code>
     </td>
     <td width="50%" valign="top">
       <h4>🦾 <a href="https://github.com/coralr-1/Shadow-Hand-AI-Controller">Shadow-Hand-AI-Controller</a></h4>
-      <p>High-fidelity robotic hand simulation driven by local LLMs (LM Studio) and a physics engine (PyBullet).</p>
+      <p>High-fidelity dexterous-hand simulation driven by <b>local LLMs</b> (LM Studio) and the PyBullet physics engine.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/Shadow-Hand-AI-Controller?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Python</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📝 <a href="https://github.com/coralr-1/AI-Research-Paper-Agent">AI-Research-Paper-Agent</a></h4>
-      <p>Agent that automates the path from experimental data & code to a full LaTeX manuscript.</p>
+      <p>An agent that takes you from experimental data &amp; code to a <b>full LaTeX manuscript</b>.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/AI-Research-Paper-Agent?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Python</code>
     </td>
     <td width="50%" valign="top">
+      <h4>🌏 <a href="https://github.com/coralr-1/earth-online-quest">Earth Online Quest</a></h4>
+      <p>Play life like an MMO — a gamified, <b>offline-first</b> achievement tracker in one HTML file, five languages.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/earth-online-quest?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>HTML</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/coralr-1/Xiaohongshu-AIGC-Comments-and-Posts-Dataset">Xiaohongshu AIGC Dataset</a></h4>
-      <p>Open dataset of user comments & posts on AIGC topics, with companion sentiment-analysis work.</p>
+      <p>Open dataset of Xiaohongshu comments &amp; posts on <b>AIGC</b> across advertising, tech and fashion.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/Xiaohongshu-AIGC-Comments-and-Posts-Dataset?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Dataset</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/coralr-1/Xiaohongshu-AIGC-Sentiment-Analysis">Xiaohongshu AIGC Sentiment</a></h4>
+      <p>Chinese-review sentiment pipeline with <b>SnowNLP</b>: cleaning → scoring → analysis.</p>
+      <img src="https://img.shields.io/github/stars/coralr-1/Xiaohongshu-AIGC-Sentiment-Analysis?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Jupyter</code>
     </td>
   </tr>
 </table>
+
+#### 🧪 From the Lab
+
+- 🎮 **[TAGNet-CS2](https://github.com/weyoung-open-lab/TAGNet-CS2)** (We Young Open Lab) — Temporal attention graph network for defensive tactical pattern recognition in pro *Counter-Strike 2* &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/TAGNet-CS2?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
+- 🦛 **[Kinematic-Aware-IHO](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)** — Official MATLAB implementation of KA-IHO &nbsp;<img src="https://img.shields.io/github/stars/SenseLabRobo4111/Kinematic-Aware-IHO?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coralr-1&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coralr-1&layout=compact&hide_border=true&title_color=2563EB&langs_count=8" alt="top langs"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coralr-1&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=coralr-1&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&icon_color=0891b2&text_color=24292f" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coralr-1&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coralr-1&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f" alt="Top languages"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=coralr-1&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=coralr-1&hide_border=true&background=0d1117&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"/>
+    <img src="https://streak-stats.demolab.com/?user=coralr-1&hide_border=true&background=ffffff&stroke=d0d7de&ring=7c3aed&fire=0891b2&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7c3aed&sideLabels=24292f&dates=57606a" alt="GitHub streak"/>
+  </picture>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coralr-1/coralr-1/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/coralr-1/coralr-1/output/github-snake.svg" alt="contribution snake"/>
+  </picture>
+</p>
 
-<p align="center"><i>"From experiments to manuscripts — building intelligent systems, one commit at a time."</i></p>
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:1e3a8a&height=120&section=footer" alt=""/>
+</p>
