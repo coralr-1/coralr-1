@@ -48,6 +48,7 @@ class ChunhongYuan(Researcher):
 - **EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization in robot path planning**<br/>
   **C. Yuan**, J. Zeng, H. Que, Q. Liu, J. Xiao, R. Wang, C. Jin, H. Chen, X. Du, et al.<br/>
   *Journal of King Saud University – Computer and Information Sciences*, 2026 · [`Code`](https://github.com/weyoung-open-lab/EEFOLLM)
+
 ---
 
 ### 🛠️ Tech Stack
