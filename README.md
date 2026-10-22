@@ -38,7 +38,7 @@ class ChunhongYuan(Researcher):
 
 - **PaperOrchestrator: An LLM-orchestrated multi-agent pipeline for automated end-to-end scientific paper writing**<br/>
   **C. Yuan**, T. Wei, C. Li, X. Yi, S. Liu, Z. Zhang, Y. Cai, X. Du<br/>
-  *Journal of King Saud University – Computer and Information Sciences*, 2026
+  *Journal of King Saud University – Computer and Information Sciences*, 2026 · [`Code`](https://github.com/coralr-1/AI-Research-Paper-Agent)
 - **KA-IHO: A kinematic-aware improved hippo optimization algorithm for collision-free mobile robot path planning in complex grid environments**<br/>
   **C. Yuan**, Y. Cai, H. Que, Y. Pei, X. Zhang, J. Xie, Q. Zhang, L. Mu, F. Qiao<br/>
   *Sensors* 26(8), 2416, 2026 · [`Code`](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)
@@ -90,7 +90,7 @@ class ChunhongYuan(Researcher):
   <tr>
     <td width="50%" valign="top">
       <h4>📝 <a href="https://github.com/coralr-1/AI-Research-Paper-Agent">AI-Research-Paper-Agent</a></h4>
-      <p>An agent that takes you from experimental data &amp; code to a <b>full LaTeX manuscript</b>.</p>
+      <p>An agent that takes you from experimental data &amp; code to a <b>full LaTeX manuscript</b>. Code for <i>PaperOrchestrator</i> (JKSU-CIS 2026).</p>
       <img src="https://img.shields.io/github/stars/coralr-1/AI-Research-Paper-Agent?style=flat-square&logo=github&color=7c3aed" alt="stars"/> <code>Python</code>
     </td>
     <td width="50%" valign="top">
