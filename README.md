@@ -48,13 +48,6 @@ class ChunhongYuan(Researcher):
 - **EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization in robot path planning**<br/>
   **C. Yuan**, J. Zeng, H. Que, Q. Liu, J. Xiao, R. Wang, C. Jin, H. Chen, X. Du, et al.<br/>
   *Journal of King Saud University – Computer and Information Sciences*, 2026 · [`Code`](https://github.com/weyoung-open-lab/EEFOLLM)
-- **Consumer-electronics-oriented safe interaction-aware motion planning for ramp driving with perception uncertainty quantification**<br/>
-  Z. Tian, Z. Lin, **C. Yuan**, S. Prajapat, J. Yang, L. Yee<br/>
-  *IEEE Transactions on Consumer Electronics*, 2026
-- **FLAME-C: Multi-dimensional dialogue response evaluation via swappable readout heads**<br/>
-  S. Liu, **C. Yuan**, L. Ren, S. Dhahbi, A. Dhahbi, J. Yang, L. Yee<br/>
-  *IEEE Transactions on Consumer Electronics*, 2026
-
 ---
 
 ### 🛠️ Tech Stack
