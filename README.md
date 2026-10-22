@@ -34,8 +34,11 @@ class ChunhongYuan(Researcher):
 
 ### 📄 Publications
 
-<a href="https://scholar.google.com/citations?hl=en&user=vSJlRpYAAAAJ"><img src="https://img.shields.io/badge/Full%20list-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=vSJlRpYAAAAJ"><img src="https://img.shields.io/badge/Full%20list-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a> &nbsp;<sub>✉ corresponding author</sub>
 
+- **TAGNet: Temporal attention graph network for defensive tactical pattern recognition in professional Counter-Strike 2**<br/>
+  X. Zhang, R. Zhang, G. Chen, X. Cao, C. Yue, **C. Yuan**✉<br/>
+  *IEEE Transactions on Games*, 2026 (Early Access) · [`Paper`](https://ieeexplore.ieee.org/document/11744413/) · [`Code`](https://github.com/weyoung-open-lab/TAGNet-CS2)
 - **PaperOrchestrator: An LLM-orchestrated multi-agent pipeline for automated end-to-end scientific paper writing**<br/>
   **C. Yuan**, T. Wei, C. Li, X. Yi, S. Liu, Z. Zhang, Y. Cai, X. Du<br/>
   *Journal of King Saud University – Computer and Information Sciences*, 2026 · [`Code`](https://github.com/coralr-1/AI-Research-Paper-Agent)
@@ -115,7 +118,7 @@ class ChunhongYuan(Researcher):
 
 #### 🧪 From the Lab
 
-- 🎮 **[TAGNet-CS2](https://github.com/weyoung-open-lab/TAGNet-CS2)** (We Young Open Lab) — Temporal attention graph network for defensive tactical pattern recognition in pro *Counter-Strike 2* &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/TAGNet-CS2?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
+- 🎮 **[TAGNet-CS2](https://github.com/weyoung-open-lab/TAGNet-CS2)** (We Young Open Lab) — Temporal attention graph network for defensive tactical pattern recognition in pro *Counter-Strike 2* · *IEEE Transactions on Games* 2026, led as corresponding author &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/TAGNet-CS2?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 - ⚡ **[EEFOLLM](https://github.com/weyoung-open-lab/EEFOLLM)** (We Young Open Lab) — Official MATLAB implementation of EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/EEFOLLM?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 - 🦛 **[Kinematic-Aware-IHO](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)** — Official MATLAB implementation of KA-IHO &nbsp;<img src="https://img.shields.io/github/stars/SenseLabRobo4111/Kinematic-Aware-IHO?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 
