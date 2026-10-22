@@ -44,7 +44,7 @@ class ChunhongYuan(Researcher):
   *Sensors* 26(8), 2416, 2026 · [`Code`](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)
 - **EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization in robot path planning**<br/>
   **C. Yuan**, J. Zeng, H. Que, Q. Liu, J. Xiao, R. Wang, C. Jin, H. Chen, X. Du, et al.<br/>
-  *Journal of King Saud University – Computer and Information Sciences*, 2026
+  *Journal of King Saud University – Computer and Information Sciences*, 2026 · [`Code`](https://github.com/weyoung-open-lab/EEFOLLM)
 - **Consumer-electronics-oriented safe interaction-aware motion planning for ramp driving with perception uncertainty quantification**<br/>
   Z. Tian, Z. Lin, **C. Yuan**, S. Prajapat, J. Yang, L. Yee<br/>
   *IEEE Transactions on Consumer Electronics*, 2026
@@ -116,6 +116,7 @@ class ChunhongYuan(Researcher):
 #### 🧪 From the Lab
 
 - 🎮 **[TAGNet-CS2](https://github.com/weyoung-open-lab/TAGNet-CS2)** (We Young Open Lab) — Temporal attention graph network for defensive tactical pattern recognition in pro *Counter-Strike 2* &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/TAGNet-CS2?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
+- ⚡ **[EEFOLLM](https://github.com/weyoung-open-lab/EEFOLLM)** (We Young Open Lab) — Official MATLAB implementation of EEFOLLM: LLM-guided reward shaping for electric eel foraging optimization &nbsp;<img src="https://img.shields.io/github/stars/weyoung-open-lab/EEFOLLM?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 - 🦛 **[Kinematic-Aware-IHO](https://github.com/SenseLabRobo4111/Kinematic-Aware-IHO)** — Official MATLAB implementation of KA-IHO &nbsp;<img src="https://img.shields.io/github/stars/SenseLabRobo4111/Kinematic-Aware-IHO?style=flat-square&logo=github&color=7c3aed" alt="stars"/>
 
 ---
